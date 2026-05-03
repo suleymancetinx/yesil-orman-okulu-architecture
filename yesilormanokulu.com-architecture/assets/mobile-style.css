@@ -1,0 +1,42 @@
+  1 /* --- MOBİL VE RESPONSIVE TASARIM --- */
+    2
+    3 /* Tablet ve Küçük Masaüstü */
+    4 @media screen and (max-width: 1200px) {
+    5     #outer-wrapper{max-width:100%}.row{width:100%}
+    6     #top-bar .container,#header-wrap,#hot-wrapper{box-sizing:border-box;padding:0 20px}
+    7     #content-wrapper{padding:0 20px}
+    8 }
+    9
+   10 /* Tablet Modu */
+   11 @media screen and (max-width: 980px) {
+   12     #main-wrapper,#sidebar-wrapper{width:100%;padding:0}
+   13     .header-logo,.header-menu{display:none}
+   14     .mobile-header{display:block}
+   15 }
+   16
+   17 /* Küçük Tablet ve Geniş Telefon */
+   18 @media screen and (max-width: 880px) {
+   19     .footer-widgets-wrap{display:block}
+   20     #footer-wrapper .footer{width:100%;margin-top:25px}
+   21 }
+   22
+   23 /* Mobil Telefonlar */
+   24 @media screen and (max-width: 680px) {
+   25     .hot-posts .hot-item{width:100%;height:180px}
+   26     .featured-posts > .col-width,.grid-big li{width:100%}
+   27     .index-post .post-image-wrap{width:100%;height:180px}
+   28 }
+   29
+   30 /* Çok Küçük Ekranlar */
+   31 @media screen and (max-width: 440px) {
+   32     .item-post h1.post-title{font-size:24px}
+   33     .post-reactions{display:none}
+   34 }
+   35
+   36 /* İkonlar İçin Özel Durumlar */
+   37 @media (hover: hover) {
+   38     .post-body a.b-tooltip-container:hover .b-tooltip {
+   39         visibility: visible;
+   40         opacity: 1;
+   41     }
+   42 }
