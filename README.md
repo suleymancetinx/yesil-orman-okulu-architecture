@@ -35,7 +35,7 @@ Bu projede UI/UX standartlarını yükseltmek adına aşağıdaki mimari kararla
 *   **Vanilla JavaScript:** Hafif ve performanslı etkileşimler.
 *   **XML Yapısı:** Özel değişkenler ve etiket mantığı.
 
-## 🚀 Canlı Demo
+## Canlı Demo
 
 Temanın tam sürümünün canlı halini incelemek için:
 👉 **[www.yesilormanokulu.com](https://www.yesilormanokulu.com/)**
