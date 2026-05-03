@@ -1,7 +1,3 @@
-Harika, giriş cümlesini daha teknik ve profesyonel bir ifadeyle, XML yapısını vurgulayacak şekilde güncelledim. 
-
-`README.md` dosyanın kullanıma hazır son hali:
-
 ```markdown
 # 🌲 Yeşil Orman Okulu - Tema Mimarisi
 ```text
