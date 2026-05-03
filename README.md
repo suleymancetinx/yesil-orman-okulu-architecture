@@ -1,5 +1,5 @@
 ```markdown
-# 🌲 Yeşil Orman Okulu - Tema Mimarisi
+# 🌲 Yeşil Orman Okulu Mimarisi
 ```text
 -----------------------------------------------
 Name:        Yeşil Orman Okulu
@@ -45,7 +45,7 @@ Temanın tam sürümünün canlı halini incelemek için:
 *Bu proje SuleymanCetin tarafından geliştirilmiş ve sürdürülmektedir.*
 ```
 
-## 🖥️ Ekran Görüntüleri
+🖥️ Ekran Görüntüleri
 
 | 💻 Masaüstü Görünümü | 📱 Mobil Görünüm |
 | :---: | :---: |
