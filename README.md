@@ -43,7 +43,6 @@ Temanın tam sürümünün canlı halini incelemek için:
 ---
 
 *Bu proje SuleymanCetin tarafından geliştirilmiş ve sürdürülmektedir.*
-🖥️ Ekran Görüntüleri
 
 | 💻 Masaüstü Görünümü | 📱 Mobil Görünüm |
 
