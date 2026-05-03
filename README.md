@@ -49,4 +49,4 @@ Temanın tam sürümünün canlı halini incelemek için:
 
 | 💻 Masaüstü Görünümü | 📱 Mobil Görünüm |
 | :---: | :---: |
-| ![Masaüstü](assets/images/desktop-preview.png) | ![Mobil](assets/images/mobile-preview.png) |
+| ![Masaüstü](images/desktop-preview.png) | ![Mobil](images/mobile-preview.png) |
